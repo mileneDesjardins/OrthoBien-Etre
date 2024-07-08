@@ -1,0 +1,16 @@
+.product-images {
+  .carousel-inner {
+    border-radius: 0.375rem;
+    border: 1px solid rgba(0, 0, 0, 0.175);
+  }
+}
+.notification {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
